@@ -1,0 +1,26 @@
+{
+    "entry": [
+        "https://web.test.com/swagger/json/igoal.swagger.json",
+        "https://web.test.com/swagger/json/frame.swagger.json",
+        "https://web.test.com/swagger/json/item.swagger.json",
+        "https://web.test.com/swagger/json/note.swagger.json",
+        "https://web.test.com/swagger/json/template.swagger.json",
+        "https://web.test.com/swagger/json/tag.swagger.json",
+        "https://web.test.com/swagger/json/fileaccessrecord.swagger.json",
+        "https://web.test.com/swagger/json/permission.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/approve.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/chat.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/customer.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/document.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/email.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/forum.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/knowledge.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/memo.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/notice.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/plan.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/project.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/task.swagger.json",
+        "https://web.test.com/swagger/json/itemdata/worklog.swagger.json"
+    ],
+    "outputPath": "./service"
+}
