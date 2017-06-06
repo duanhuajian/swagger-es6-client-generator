@@ -1,6 +1,6 @@
 {
   "name": "swagger-es6-client-generator",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Jingoal Swagger Client-Side Code Generator",
   "main": "index.js",
   "bin": {

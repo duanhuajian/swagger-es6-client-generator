@@ -1,7 +1,7 @@
 # Jingoal Swagger Client-Side Code Generator
 
 A tool helps to generate client-side code to access the swagger restful API.
-The current version doesn't support custom template, but i will make it work later :-D.
+The current version doesn't support custom template, but I will make it work later :-D.
 
 ## Options:
 
@@ -43,3 +43,4 @@ swagger-es6-cli --config=./swagger.conf.json
 ## Changelog
 * v1.0.3 Change the generated file extension from `jsx` to `js`
 * v1.0.5 Adapt to some fucking unstandard swagger definations...
+* v1.0.7 Fix some null bugs.
